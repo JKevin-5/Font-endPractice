@@ -1,7 +1,8 @@
 # Font-endPractice
----
 前端学习的个人实践过程，欢迎学习交流。
 
-## 页面结构
+## HTML
 
-【2021-08-06】使用sourceTree进行更新。
+## JavaScript
+> 根据《JavaScript 高级程序设计》进行学习，辅以MDN等补充知识点，总共28章，预计2个月进行学习；
+
