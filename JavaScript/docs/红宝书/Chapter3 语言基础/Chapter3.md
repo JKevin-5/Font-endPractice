@@ -33,4 +33,3 @@ return语句可以不带返回值，默认会返回undefined。不写return语�
 
 - ECMAScript的基本类型包括：undefined、Null、Boolean、Number、String和Symbol。
 - 不区分浮点数和整数，只有Number一种数值数据类型。
-- 
